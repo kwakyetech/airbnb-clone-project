@@ -86,3 +86,22 @@ Understanding and documenting **design properties** from a mockup tool like Figm
 - Improving **efficiency** through reusable design tokens and styles
 
 > A well-documented design system reduces confusion, promotes code reusability, and results in a polished, user-friendly interface.
+
+
+## 👥 Project Roles and Responsibilities
+
+Clear role definitions help streamline the development process, improve accountability, and ensure all aspects of the project are effectively managed. Below are the roles and their key responsibilities:
+
+| Role                | Responsibilities |
+|---------------------|------------------|
+| **Project Manager** | - Oversees the overall project timeline<br>- Coordinates team members and resources<br>- Ensures deliverables are met on schedule<br>- Manages project scope and stakeholder communication |
+| **Frontend Developers** | - Build responsive UI components using React<br>- Integrate frontend with backend APIs<br>- Ensure cross-browser compatibility and accessibility<br>- Maintain clean and reusable component structure |
+| **Backend Developers** | - Design and implement RESTful APIs<br>- Set up and manage the database schema<br>- Handle business logic and authentication<br>- Ensure data security and efficient performance |
+| **Designers (UI/UX)** | - Create wireframes, mockups, and prototypes using Figma<br>- Maintain a consistent design system (colors, fonts, spacing)<br>- Ensure seamless and intuitive user experiences<br>- Collaborate with developers to implement designs |
+| **QA/Testers** | - Write and maintain unit, integration, and end-to-end test cases<br>- Perform manual and automated testing<br>- Report bugs and track them to resolution<br>- Ensure app meets quality and performance standards |
+| **DevOps Engineers** | - Set up CI/CD pipeline for automated deployment<br>- Manage cloud infrastructure and hosting<br>- Monitor app uptime and scalability<br>- Ensure secure and optimized deployment processes |
+| **Product Owner** | - Define product vision and goals<br>- Prioritize features and user stories<br>- Gather and communicate requirements from stakeholders<br>- Validate deliverables align with business objectives |
+| **Scrum Master** | - Facilitate agile ceremonies (daily standups, sprint planning, retrospectives)<br>- Remove blockers and foster team collaboration<br>- Maintain sprint boards and timelines<br>- Ensure the team adheres to agile practices |
+
+> Defining these roles helps the team stay organized and ensures accountability, making the project development process smoother and more efficient.
+
