@@ -51,3 +51,38 @@ Stay tuned for updates and development progress!
 A well-designed booking system ensures that users can navigate and interact with the platform efficiently and confidently. This reduces friction in the booking process, improves customer satisfaction, and increases conversion rates. Key elements like clear CTAs, intuitive layouts, consistent visuals, and fast response times play a crucial role in building trust and retaining users.
 
 Add UI/UX Design Planning section to README.md
+
+
+---
+
+### 🎨 Color Styles
+- **Primary Color**: `#FF5A5F` (Airbnb Red)
+- **Secondary Color**: `#008489` (Teal Blue)
+- **Background**: `#FFFFFF` (White)
+- **Text**: `#222222` (Main text color)
+- **Secondary Text**: `#717171` (Subtext color)
+
+---
+
+### ✍️ Typography
+
+| Text Element        | Font Family | Font Weight | Font Size |
+|---------------------|-------------|-------------|-----------|
+| Primary Text        | Circular    | Medium (500)| 16px      |
+| Headings (H1-H3)    | Circular    | Bold (700)  | 24px–32px |
+| Secondary Text      | Circular    | Book (400)  | 14px      |
+
+> *Note: "Circular" is a proprietary font. If unavailable, consider alternatives like "Inter", "Nunito", or "Helvetica Neue".*
+
+---
+
+### 🧠 Importance of Identifying Design Properties from a Mockup
+
+Understanding and documenting **design properties** from a mockup tool like Figma ensures a seamless transition from design to development. It helps in:
+- Maintaining **visual consistency** across all screens
+- Reducing **guesswork** during development
+- Promoting **faster collaboration** between teams
+- Ensuring a **cohesive user experience**
+- Improving **efficiency** through reusable design tokens and styles
+
+> A well-documented design system reduces confusion, promotes code reusability, and results in a polished, user-friendly interface.
