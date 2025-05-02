@@ -105,3 +105,54 @@ Clear role definitions help streamline the development process, improve accounta
 
 > Defining these roles helps the team stay organized and ensures accountability, making the project development process smoother and more efficient.
 
+
+## 🧩 UI Component Patterns
+
+To build a scalable and maintainable frontend, we will implement reusable and responsive UI components. These components will form the foundation of our application’s interface and will follow a consistent design language.
+
+### Planned Components
+
+---
+
+### 🔝 Navbar
+The Navbar will serve as the primary navigation component, appearing across all pages.
+
+**Features:**
+- Logo display
+- Search bar for quick property lookup
+- User navigation (Sign In / Account Menu)
+- Responsive hamburger menu for smaller screens
+
+---
+
+### 🏠 Property Card
+Used in the property listing grid to display a brief summary of each property.
+
+**Features:**
+- Property image thumbnail
+- Title, price, and location
+- User rating
+- Favorite (heart) button
+- Fully responsive layout with hover effects
+
+---
+
+### 📥 Footer
+Appears at the bottom of all pages, containing essential links and information.
+
+**Features:**
+- Quick navigation links (About, Contact, Support)
+- Company information
+- Social media icons
+- Copyright
+
+---
+
+Each component will be built to ensure:
+- Reusability across different parts of the application
+- Consistency in design with the Figma mockup
+- Mobile-first responsiveness
+- Accessibility and semantic HTML
+
+> Well-structured UI components improve developer efficiency and create a unified user experience across the app.
+
